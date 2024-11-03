@@ -1,0 +1,16 @@
+{
+  "title": "管理",
+  "identity_management": {
+    "title": "身份管理",
+    "organization_units": "组织机构",
+    "roles": "角色",
+    "users": "用户",
+    "claim_types": "声明类型",
+    "security logs": "安全日志"
+  },
+  "saas": {
+    "title": "Saas",
+    "tenants": "租户",
+    "editions": "Editions"
+  }
+}

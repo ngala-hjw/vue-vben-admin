@@ -1,0 +1,16 @@
+{
+  "title": "administration",
+  "identity_management": {
+    "title": "Identity Management",
+    "organization_units": "Organization units",
+    "roles": "Roles",
+    "users": "Users",
+    "claim_types": "Claim types",
+    "security logs": "Security logs"
+  },
+  "saas": {
+    "title": "Saas",
+    "tenants": "Tenants",
+    "editions": "Editions"
+  }
+}
